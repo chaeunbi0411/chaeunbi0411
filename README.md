@@ -24,8 +24,8 @@
 ---
 
 ## 🥐 About Me
-- 🍞 I'm passionate about exploring the intersection of technology and creativity.
-- 🥨 I enjoy listening to Rock & POP.
+- 🍞 I have a dog.
+- 🥨 I like my house.
 - 🥖 Love traveling and capturing moments.
 
 ---
