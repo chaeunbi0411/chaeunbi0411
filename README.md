@@ -22,11 +22,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=EunSeong-Jo&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EunSeong-Jo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeunbi0411&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeunbi0411&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![GitHub Contributions Chart](https://github-contributions-chart.vercel.app/api?username=EunSeong-Jo)](https://github.com/sallar/github-contributions-chart) -->
-
-![Visitor Count](https://komarev.com/ghpvc/?username=EunSeong-Jo&style=flat-square&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=chaeunbi0411&style=flat-square&color=blue)
 
 ---
 
@@ -38,8 +36,8 @@
 ---
 
 ## 📫 Contact Me
-- Github : [DMU-Jo](https://github.com/EunSeong-Jo/)
-- Email : [nsrdmu@dongyang.ac.kr](nsrdmu@dongyang.ac.kr)  
+- Github : [차은비](https://github.com/chaeunbi0411/)
+- Email : [chadmsql@naver.com](chadmsql@naver.com)  
 
 ---  
   
