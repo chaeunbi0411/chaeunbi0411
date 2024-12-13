@@ -15,11 +15,6 @@
 
 ---
 
-## 🚀 Featured Projects
-- [**Dongyang Mirae**](https://github.com/EunSeong-Jo/DMU) : Things I learned in college.
-- [**Open Source Software assignment**](https://github.com/EunSeong-Jo/QB-OSS-WhyGroup) : Open source software project with the Why-Group team.
-
----
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeunbi0411&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeunbi0411&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
