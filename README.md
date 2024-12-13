@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm 차은비! <img src ="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif?cid=790b76114t2xf13tmwwp0ufo4vi4kua664hxl435wm0ijn99&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="62" height="62"/>
+# 🥇 Hi there, I'm 차은비! <img src ="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif?cid=790b76114t2xf13tmwwp0ufo4vi4kua664hxl435wm0ijn99&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="62" height="62"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58ACFA&width=435&lines=Hi%2C+I'm+차은비!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
